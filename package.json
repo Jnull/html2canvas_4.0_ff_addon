@@ -1,0 +1,13 @@
+{
+  "title": "html2canvas_4.0_bug-491",
+  "name": "html2canvas40",
+  "version": "0.0.1",
+  "description": "test case",
+  "main": "index.js",
+  "author": "Jared Null",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
